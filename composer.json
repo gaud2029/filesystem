@@ -1,5 +1,5 @@
 {
-    "name": "bezko/filesystem",
+    "name": "gaud2029/filesystem",
     "type": "library",
     "description": "A PHP filesystem with stubs compiler support",
     "keywords": [
